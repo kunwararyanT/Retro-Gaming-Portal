@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ktoolshq.com/retro-gaming/$1",
+      "permanent": true
+    }
+  ]
+}
